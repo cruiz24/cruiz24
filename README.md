@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cruiz24
 - 👀 I’m interested in Movies and Webseries.
-- 🌱 I’m currently learning js.
+- 🌱 
 - 💞️ I’m looking to collaborate on Go
 - 📫 
 
